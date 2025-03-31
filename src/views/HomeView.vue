@@ -30,7 +30,9 @@ const loading = ref(true);
 
 onBeforeMount(async () => {
   try {
-    const response = await axios.get("http://localhost:3000/pizzas");
+    const response = await axios.get(
+      "https://petal-crocus-seat.glitch.me/pizzas"
+    );
     pizzas.value = response.data;
   } catch (error) {
     console.error("Ошибка", error);
