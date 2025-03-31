@@ -1,0 +1,76 @@
+{
+  "pizzas": [
+    {
+      "id": 1,
+      "name": "Чизбургер-пицца",
+      "category": "Мясные",
+      "doughTypes": ["тонкое", "традиционное"],
+      "sizes": ["26 см.", "30 см.", "40 см."],
+      "price": 395,
+      "image": "https://main-cdn.sbermegamarket.ru/big1/hlr-system/-16/020/542/871/216/222/9/100045560750b0.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Сырная",
+      "category": "Вегетарианская",
+      "doughTypes": ["тонкое", "традиционное"],
+      "sizes": ["26 см.", "30 см.", "40 см."],
+      "price": 450,
+      "image": "https://main-cdn.sbermegamarket.ru/big1/hlr-system/-16/020/542/871/216/222/9/100045560750b0.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Креветки по-азиатски",
+      "category": "Гриль",
+      "doughTypes": ["тонкое", "традиционное"],
+      "sizes": ["26 см.", "30 см.", "40 см."],
+      "price": 290,
+      "image": "https://main-cdn.sbermegamarket.ru/big1/hlr-system/-16/020/542/871/216/222/9/100045560750b0.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Сырный цыпленок",
+      "category": "Мясные",
+      "doughTypes": ["тонкое", "традиционное"],
+      "sizes": ["26 см.", "30 см.", "40 см."],
+      "price": 385,
+      "image": "https://main-cdn.sbermegamarket.ru/big1/hlr-system/-16/020/542/871/216/222/9/100045560750b0.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Чизбургер-пицца",
+      "category": "Мясные",
+      "doughTypes": ["тонкое", "традиционное"],
+      "sizes": ["26 см.", "30 см.", "40 см."],
+      "price": 395,
+      "image": "https://main-cdn.sbermegamarket.ru/big1/hlr-system/-16/020/542/871/216/222/9/100045560750b0.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Сырная",
+      "category": "Вегетарианская",
+      "doughTypes": ["тонкое", "традиционное"],
+      "sizes": ["26 см.", "30 см.", "40 см."],
+      "price": 450,
+      "image": "https://main-cdn.sbermegamarket.ru/big1/hlr-system/-16/020/542/871/216/222/9/100045560750b0.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Креветки по-азиатски",
+      "category": "Гриль",
+      "doughTypes": ["тонкое", "традиционное"],
+      "sizes": ["26 см.", "30 см.", "40 см."],
+      "price": 290,
+      "image": "https://main-cdn.sbermegamarket.ru/big1/hlr-system/-16/020/542/871/216/222/9/100045560750b0.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Сырный цыпленок",
+      "category": "Мясные",
+      "doughTypes": ["тонкое", "традиционное"],
+      "sizes": ["26 см.", "30 см.", "40 см."],
+      "price": 385,
+      "image": "https://main-cdn.sbermegamarket.ru/big1/hlr-system/-16/020/542/871/216/222/9/100045560750b0.jpg"
+    }
+  ]
+}

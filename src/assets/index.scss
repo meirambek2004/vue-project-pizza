@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Lato:wght@400;700&display=swap");
+$heading-font: "Playfair Display", serif;
+$main-font: "Lato", sans-serif;
+
+h1,
+h2 {
+  font-family: $heading-font;
+  letter-spacing: 1px;
+}
+body {
+  font-family: $main-font;
+}
+.category button {
+  font-family: $main-font;
+  font-size: medium;
+}
